@@ -3,9 +3,6 @@
 <div align="center">
 
 <img src="https://i.imgur.com/v0kYxT8.png" alt="Software Engineering Banner">
-Software Engineering Kuliah Semester 5 
-by : Hafizh Hilman Asyhari
-Indonesia.
 
 [![UML](https://img.shields.io/badge/Tools-UML%20%26%20Diagrams-blue?logo=drawio&logoColor=white)](https://app.diagrams.net/)
 [![Design Patterns](https://img.shields.io/badge/Concepts-Design%20Patterns-orange)](https://refactoring.guru/design-patterns)
@@ -14,7 +11,9 @@ Indonesia.
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **📚 Dokumentasi lengkap perjalanan belajar mata kuliah Rekayasa Perangkat Lunak (Fokus: Kebutuhan, Desain & Arsitektur)**
-
+Software Engineering Kuliah Semester 5 
+by : Hafizh Hilman Asyhari
+Indonesia.
 [📖 Silabus 16 Minggu](SYLLABUS.md) • [🚀 Mulai Cepat](#-mulai-cepat) • [📊 Struktur Repo](#-struktur-repositori) • [💡 Proyek Utama](#-proyek-utama) • [🤝 Kontribusi](CONTRIBUTING.md)
 
 </div>
