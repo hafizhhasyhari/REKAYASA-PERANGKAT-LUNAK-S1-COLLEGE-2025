@@ -94,3 +94,114 @@ Fokus pada Atribut Kualitas Non-Fungsional (NFR), *trade-offs* arsitektur, dan f
 ---
 
 ## 📊 Struktur Repositori
+rekayasa-perangkat-lunak/ 
+'''
+
+''' bash
+├── README.md # Halaman utama ini 
+├── SYLLABUS.md # Silabus lengkap 16 minggu (WAJIB DIBACA) 
+├── LICENSE 
+├── .gitignore 
+├── CONTRIBUTING.md 
+│ ├── 📘_materi/ # Catatan kuliah, slide, dan teori per minggu 
+│ ├── week01_intro_rpl.md 
+│ ├── week02_requirements_elicitation.md 
+│ ├── week03_srs_documentation.md 
+│ ├── week04_use_case_modeling.md 
+│ ├── week05_solid_principles.md 
+│ ├── week06_solid_grasp.md 
+│ ├── week07_uml_structural_diagrams.md 
+│ ├── week08_uml_behavioral_diagrams.md 
+│ ├── week09_software_architecture_styles.md
+│ ├── week10_monolith_vs_microservices.md 
+│ ├── week11_event_driven_architecture.md 
+│ ├── week12_creational_design_patterns.md 
+│ ├── week13_structural_design_patterns.md 
+│ ├── week14_behavioral_design_patterns.md 
+│ ├── week15_quality_attributes_atam.md 
+│ └── week16_final_review.md 
+│ ├── ⚙️_praktikum/ # Latihan praktis, kode, dan implementasi lab 
+│ ├── lab01_requirements_analysis/ 
+│ ├── lab02_uml_structural/ 
+│ ├── lab03_uml_behavioral/ 
+│ ├── lab04_solid_implementation/ 
+│ ├── lab05_design_patterns_creational/ 
+│ ├── lab06_design_patterns_structural/ 
+│ ├── lab07_design_patterns_behavioral/ 
+│ ├── lab08_architecture_prototype/ 
+│ └── lab_datasets/ 
+│ ├── 💡_proyek_akhir/ # Proyek utama (studi kasus) 
+│ ├── 00_proposal_ide/ 
+│ ├── 01_analisis_kebutuhan_srs/ 
+│ ├── 02_desain_uml_diagrams/ 
+│ ├── 03_dokumen_desain_arsitektur/ 
+│ ├── 04_presentasi_final/ 
+│ └── README.md (Deskripsi Proyek) 
+│ ├── 🧪_riset_desain/ # (Penelitian) Tinjauan paper, perbandingan arsitektur 
+│ ├── paper_review_srs_challenges.md 
+│ ├── comparison_microservices_vs_event.md 
+│ └── business_project_case_study.md 
+│ ├── 📑_referensi/ # Buku, paper, artikel, dan cheatsheet 
+│ ├── cheatsheets/ 
+│ │ ├── uml_cheatsheet.md 
+│ │ └── solid_cheatsheet.md 
+│ ├── books_recommendations.md 
+│ └── useful_links.md 
+│ ├── 🛠️_reusable_tools/ # (Reusable Tools) Template, skrip, dan utilitas 
+│ ├── templates/ 
+│ │ ├── srs_template.md 
+│ │ ├── design_document_template.md 
+│ │ └── use_case_template.md 
+│ └── checklists/ 
+│ ├── requirements_checklist.md 
+│ └── solid_checklist.md 
+│ ├── 📝_catatan/ # (Catatan) Refleksi mingguan, ide, dan catatan pribadi 
+│ ├── weekly_reflection.md 
+│ └── brilliant_ideas.md 
+│ ├── 🎤_pameran_showcase/ # (Pameran) Hasil pameran mingguan & presentasi 
+│ ├── week04_use_case_presentation.pdf 
+│ ├── week08_midterm_design_review.pdf 
+│ └── week16_final_architecture_demo/ 
+│ ├── 🌍_pengabdian_masyarakat/ # (Pengabdian) Ide & konsep aplikasi sosial 
+│ ├── ide_sistem_parkir_kampus.md 
+│ └── ide_aplikasi_temu_dosen.md 
+│ ├── 🎬_naskah_ide/ # (Naskah) Kumpulan ide cerita/naskah 
+│ ├── rpl_heist_movie_idea.md 
+│ └── startup_crash_story.md 
+│ └── 📸_media/ # (Karya Seni) Gambar, banner, dan aset visual 
+├── images/ 
+│ └── banner.png 
+└── infographics/ 
+└── solid_principles_infographic.pdf
+'''
+
+---
+
+## 🏆 Goals Semester Ini
+
+* [ ] Menguasai teknik elisitasi dan analisis kebutuhan.
+* [ ] Mampu membuat Dokumen Spesifikasi Kebutuhan Perangkat Lunak (SRS) yang profesional.
+* [ ] Memahami dan mampu menerapkan 5 Prinsip SOLID.
+* [ ] Menguasai pembuatan diagram UML (Use Case, Class, Sequence, Component).
+* [ ] Memahami perbedaan dan *trade-offs* dari gaya arsitektur (Monolith, Microservices, Event-Driven).
+* [ ] Mampu mengidentifikasi dan menerapkan minimal 5 Pola Desain (Design Patterns).
+* [ ] Menyelesaikan Proyek Desain Akhir dari awal hingga akhir.
+
+---
+
+## 📫 Mari Terhubung
+
+**Nama:** Hafizh Hilman Asyhari
+**NIM:** 202331206
+**Email:** (at) hafizhhasyhari
+**LinkedIn:** 
+**GitHub:** (https://github.com/hafizhhasyhari/)
+
+---
+
+> "Good design adds value faster than it adds cost." — Thomas C. Gale
+
+---
+
+2. File Silabus (SYLLABUS.md)
+Ini adalah file terpisah yang berisi detail 16 minggu. Buat file baru bernama SYLLABUS.md dan salin semua yang ada di blok kode ini ke dalamnya.
